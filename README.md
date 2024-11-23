@@ -226,11 +226,14 @@ def create_model(total_words, max_sequence_len):
 
 ### 5. Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/user-attachments/assets/58b0bb00-775b-4b7b-a84f-2884ff124aa2)
+
+![image](https://github.com/user-attachments/assets/f7084c5a-0aee-4043-9932-bf9139df65d4)
+
 
 
 ### 6. Sample Text Prediction
-![image](https://github.com/user-attachments/assets/b0ee18a9-a816-4348-9063-ddccf1453cd5)
+![image](https://github.com/user-attachments/assets/58b0bb00-775b-4b7b-a84f-2884ff124aa2)
+
 
 
 ## RESULT
