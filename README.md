@@ -202,28 +202,36 @@ def create_model(total_words, max_sequence_len):
 ## OUTPUT
 ### 1. fit_vectorizer output
 
-![image](https://github.com/user-attachments/assets/094d32fa-acb7-4935-89f0-dc2dc0aa61d1)
+![image](https://github.com/user-attachments/assets/566507d1-5d5a-4682-9f8b-ec9166c32108)
 
 
-![image](https://github.com/user-attachments/assets/222e5653-5b47-4403-9965-fbbb15c2e511)
+
+![image](https://github.com/user-attachments/assets/75db9c11-8172-4349-b499-bb16ab9ee931)
+
 
 ### 2. n_grams_seqs output
 
-![image](https://github.com/user-attachments/assets/f3fc222c-4f95-4209-8192-93065722753a)
+![image](https://github.com/user-attachments/assets/f66ed3f3-e7bd-434c-89ff-7f591482a0df)
+
 
 ### 3. pad_seqs output
 
-![image](https://github.com/user-attachments/assets/6ad1f558-e02c-45bb-a95c-1cc4307e5bdc)
+![image](https://github.com/user-attachments/assets/a389bd4a-2a7c-4233-a5b2-e30ab549c7b8)
+
 
 ### 4. features_and_labels_dataset output
 
-![image](https://github.com/user-attachments/assets/435fd140-b9f9-47c8-97a2-4fd218596cce)
+![image](https://github.com/user-attachments/assets/3e3f0930-fea5-4c9b-9020-dd3c02a4cd7a)
+
 
 ### 5. Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/2c6ef7af-c62e-4b2d-a521-5a8955972c41)
+
+![image](https://github.com/user-attachments/assets/58b0bb00-775b-4b7b-a84f-2884ff124aa2)
+
 
 ### 6. Sample Text Prediction
-![image](https://github.com/user-attachments/assets/74c64ee1-a176-417e-9a79-1abb5d74f6c3)
+![image](https://github.com/user-attachments/assets/b0ee18a9-a816-4348-9063-ddccf1453cd5)
+
 
 ## RESULT
 Thus the program to develop an LSTM-based model for predicting the next word in a text corpus is successfully implemented.
